@@ -4,3 +4,4 @@ poc for multiple Nosql injection vulnerabilities and authenticated remote code e
 
 usage: python3 exploit.py http://TARGET_IP
 
+i didn't figure out how to get complete revshell 
